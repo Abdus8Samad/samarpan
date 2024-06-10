@@ -26,7 +26,7 @@ yarn dev
 
 ## Author
 
-👤 **Abdus, Ravi, Kunal and Vansh**
+👤 **Abdus, Ravi, Giriraj and Vansh**
 
 * Github: [@Abdus8Samad](https://github.com/Abdus8Samad)
 
